@@ -12,7 +12,7 @@
 ## **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usuginus&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usuginus&theme=transparent&border_radius=10&starting_year=2020&card_width=600" alt="readme streak stats" />
 </div>
 
 ---
@@ -88,7 +88,6 @@
   <h3>📈 Data Engineering / Analytics</h3>
   <div class="si-grid">
     <div class="si-item"><img alt="Google BigQuery" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlebigquery.svg"/><span>BigQuery</span></div>
-    <div class="si-item"><img alt="SQLite" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/sqlite.svg"/><span>SQL</span></div>
     <div class="si-item"><img alt="Looker" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/looker.svg"/><span>Looker Studio</span></div>
     <div class="si-item"><img alt="Google Cloud" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlecloud.svg"/><span>Dataform</span></div>
     <div class="si-item"><img alt="Google Cloud" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlecloud.svg"/><span>Datastream</span></div>
@@ -97,11 +96,11 @@
   <!-- 🔭 Observability -->
   <h3>🔭 Observability</h3>
   <div class="si-grid">
+    <div class="si-item"><img alt="Grafana" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/grafana.svg"/><span>Grafana</span></div>
+    <div class="si-item"><img alt="Prometheus" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/prometheus.svg"/><span>Prometheus</span></div>
     <div class="si-item"><img alt="Google Cloud" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlecloud.svg"/><span>Cloud Logging</span></div>
     <div class="si-item"><img alt="Google Cloud" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlecloud.svg"/><span>Cloud Monitoring</span></div>
     <div class="si-item"><img alt="Google Cloud" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlecloud.svg"/><span>Cloud Trace</span></div>
-    <div class="si-item"><img alt="Grafana" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/grafana.svg"/><span>Grafana</span></div>
-    <div class="si-item"><img alt="Prometheus" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/prometheus.svg"/><span>Prometheus</span></div>
   </div>
 
   <!-- 🛠️ DevOps & Tools -->
