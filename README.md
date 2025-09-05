@@ -15,10 +15,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usuginus&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usuginus&custom_title=usuginus's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
-
 ---
 
 ### My Tech Stack
@@ -51,12 +47,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,redis,firebase,firestore" alt="Databases" />
-</p>
-
-#### 🔍 Data Analysis & Visualization
-
-<p>
-  <img src="https://skillicons.dev/icons?i=looker, r" alt="Data Analysis & Visualization" />
 </p>
 
 #### 🛠️ DevOps & Tools
