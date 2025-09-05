@@ -1,113 +1,72 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm usuginus 👋</h1>
+  <h1 align="center">Hi there, I'm usuginus（うすぎぬ） 👋</h1>
   <p align="center">
-    A passionate software engineer from Japan.
+    A software engineer from Japan with experience in Web Engineering, VR App Development, and Data Engineering.
+    <br />
+    I'm passionate about web application performance tuning and observability.
   </p>
 </div>
 
+---
+
+## 📊 **GitHub Analytics**
+
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usuginus&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+</div>
 
-[![usuginus's GitHub stats](https://github-readme-stats.vercel.app/api?username=usuginus&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usuginus&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=usuginus&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usuginus&custom_title=usuginus's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
-#### 🌐 Web App Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,deno,bun,vue,react" alt="Languages & Runtimes" />
-  <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker" alt="Cloud & Containers" />
-  <img src="https://skillicons.dev/icons?i=mysql,redis,firebase" alt="Databases" />
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,terraform,githubactions,jenkins" alt="DevOps & Tools" />
-</p>
-
-#### 🤖 VR App & Robotics
+#### 💻 Languages & Runtimes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,unity,r" alt="Languages" />
-  <img src="https://skillicons.dev/icons?i=solidworks,ros,arduino,raspberrypi" alt="Hardware & Tools" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,deno,bun,cpp,cs" alt="Languages & Runtimes" />
 </p>
 
----
+#### 📚 Frameworks & Libraries
 
-### � Experience & Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,react" alt="Frameworks & Libraries" />
+</p>
 
-<details>
-<summary>Click to see more details</summary>
+#### 🎮 Game Engineering
 
-<details>
-<summary>
-  <h2>🌐 Web App Development</h2>
-</summary>
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" alt="Game Engineering" />
+</p>
 
-### for Software Development
+#### ☁️ Cloud, Containers & Infrastructure
 
-#### 🏆 Awards & Certifications
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,terraform" alt="Cloud, Containers & Infrastructure" />
+</p>
 
-- **GREE - New Grad of the Year 2020**
-- **Google Cloud Certified - Professional Cloud Developer**
+#### 🗃️ Databases
 
-#### 🔗 Related Links & Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,redis,firebase,firestore" alt="Databases" />
+</p>
 
-- [GREE -New Grad of the year- 2020 受賞](https://hd.gree.net/jp/ja/6degrees/2021/08/01.html)
-- [アプリ起動時間高速化 ~推測するな、計測せよ~ (GREE TechConference 2021)](https://techcon.gree.jp/2021/session/Session-11)
-- [Observability 強化と Performance Tuning を行うチームの立ち上げ](https://note.com/reality_eng/n/n304df572550e)
-- [Protocol Buffers の検証と本番アプリへの導入](https://note.com/reality_eng/n/n2223d56db125)
-- [アプリ内配信サーバのマルチリージョン化](https://note.com/reality_eng/n/nc2f16c9fbad3)
-- [コーディングエージェントの導入](https://note.com/reality_eng/n/n4ad2f2f35127)
+#### 🔍 Data Analysis & Visualization
 
-#### 💻 Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=looker, r" alt="Data Analysis & Visualization" />
+</p>
 
-- **Languages/Runtimes**: Go, TypeScript, JavaScript, Node.js, Deno, Bun
-- **Frontend**: Vue.js, React
-- **Cloud (GCP)**: GKE, BigQuery, Cloud Storage, Cloud Spanner, Memorystore, Pub/Sub, etc.
-- **Containers**: Docker, Kubernetes
-- **Databases**: MySQL, Cloud Spanner, Redis, Memcached, Valkey, Firestore
-- **Observability**: Grafana, Prometheus, Cloud Monitoring/Logging/Trace
-- **Data Engineering**: BigQuery, SQL, Dataform, Looker Studio
-- **Dev Tools**: Protocol Buffers, GitHub Actions, Jenkins, Terraform
+#### 🛠️ DevOps & Tools
 
-</details>
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,githubactions,jenkins" alt="DevOps & Tools" />
+</p>
 
-<details>
-<summary>
-  <h2>🤖 VR App & Robotics</h2>
-</summary>
+#### 🤖 Robotics & Hardware
 
-### for Research & Development
-
-#### 🏆 Awards & Certifications
-
-- **一般社団法人茗渓会賞**
-- **電気学会技術委員会奨励賞**
-- **Certified Virtual Reality Specialist (Application)**
-- **Certified Virtual Reality Specialist (Theory)**
-
-#### 🔗 Related Links & Projects
-
-- [電気学会平成 30 年電子・情報・システム部門 技術委員会奨励賞](https://saga-lab.org/concrete/index.php/news/2019-03-04)
-- [IVRC2019 総合優勝](https://ivrc.net/2019/release2/)
-
-#### 🛠️ Technologies
-
-- **Languages**: C++, C# (Unity), R, Fortran
-- **Dev Tools**: SOLIDWORKS, ROS, Google Apps Script
-- **Hardware/Robotics**: M5Stack, Arduino, Raspberry Pi, Circuit Design, Mechatronics
-- **Simulation/Control**: PID Control, Kinematics, Elastic Body Simulation
-
-</details>
-
-</details>
-
----
-
-### 📫 How to reach me
-
-- **GitHub**: [usuginus](https://github.com/usuginus) (You are here!)
-
-Thanks for visiting my profile!
+<p>
+  <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi" alt="Robotics & Hardware" />
+</p>
