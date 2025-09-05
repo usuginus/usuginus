@@ -2,8 +2,6 @@
   <h1 align="center">Hi there, I'm usuginus（うすぎぬ） 👋</h1>
   <p align="center">
     A software engineer from Japan with experience in Web Engineering, VR App Development, and Data Engineering.
-    <br />
-    I'm passionate about web application performance tuning and observability.
   </p>
 </div>
 
@@ -19,104 +17,90 @@
 
 ## **My Tech Stack**
 
-<!-- ================================
- Simple Icons 統一版 Tech Stack
- 単色・ダーク/ライト対応ピルUI
-=============================== -->
 <div align="left">
 
-  <!-- 共通スタイル -->
-  <style>
-    .si-grid { display:flex; flex-wrap:wrap; gap:10px; margin:6px 0 20px; }
-    .si-item { display:inline-flex; align-items:center; gap:8px; padding:7px 12px; border-radius:10px; background:#0F172A0D; }
-    .si-item img { width:22px; height:22px; filter: invert(23%) sepia(11%) saturate(722%) hue-rotate(186deg) brightness(92%) contrast(92%); }
-    .si-item span { font-size:13px; color:#0f172a; white-space:nowrap; }
-    @media (prefers-color-scheme: dark) {
-      .si-item { background:#FFFFFF12; }
-      .si-item span { color:#e5e7eb; }
-      .si-item img { filter: invert(90%); }
-    }
-  </style>
-
-  <!-- 💻 Languages & Runtimes -->
   <h3>💻 Languages &amp; Runtimes</h3>
-  <div class="si-grid">
-    <div class="si-item"><img alt="Go" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/go.svg"/><span>Go</span></div>
-    <div class="si-item"><img alt="TypeScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/typescript.svg"/><span>TypeScript</span></div>
-    <div class="si-item"><img alt="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/javascript.svg"/><span>JavaScript</span></div>
-    <div class="si-item"><img alt="Node.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nodedotjs.svg"/><span>Node.js</span></div>
-    <div class="si-item"><img alt="Deno" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/deno.svg"/><span>Deno</span></div>
-    <div class="si-item"><img alt="Bun" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/bun.svg"/><span>Bun</span></div>
-    <div class="si-item"><img alt="C++" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cplusplus.svg"/><span>C++</span></div>
-    <div class="si-item"><img alt="R" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/r.svg"/><span>R</span></div>
-    <div class="si-item"><img alt="Fortran" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/fortran.svg"/><span>Fortran</span></div>
-  </div>
+  <p>
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white" alt="Deno"/>
+    <img src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white" alt="Bun"/>
+    <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R"/>
+    <img src="https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=white" alt="Fortran"/>
+  </p>
 
-  <!-- 📚 Frameworks & Libraries -->
   <h3>📚 Frameworks &amp; Libraries</h3>
-  <div class="si-grid">
-    <div class="si-item"><img alt="Vue.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vuedotjs.svg"/><span>Vue.js</span></div>
-    <div class="si-item"><img alt="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg"/><span>React</span></div>
-  </div>
+  <p>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
+  </p>
 
-  <!-- 🎮 Game / XR -->
   <h3>🎮 Game / XR</h3>
-  <div class="si-grid">
-    <div class="si-item"><img alt="Unity" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/unity.svg"/><span>Unity</span></div>
-  </div>
+  <p>
+    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity"/>
+    <img src="https://img.shields.io/badge/SOLIDWORKS-DA1F0F?logo=solidworks&logoColor=white" alt="SOLIDWORKS"/>
+  </p>
 
-  <!-- ☁️ Cloud, Containers & IaC -->
   <h3>☁️ Cloud, Containers &amp; IaC</h3>
-  <div class="si-grid">
-    <div class="si-item"><img alt="Google Cloud" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlecloud.svg"/><span>Google Cloud</span></div>
-    <div class="si-item"><img alt="Kubernetes" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/kubernetes.svg"/><span>Kubernetes</span></div>
-    <div class="si-item"><img alt="Docker" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg"/><span>Docker</span></div>
-    <div class="si-item"><img alt="Terraform" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/terraform.svg"/><span>Terraform</span></div>
-  </div>
+  <p>
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform"/>
+  </p>
 
-  <!-- 🗃️ Databases -->
   <h3>🗃️ Databases</h3>
-  <div class="si-grid">
-    <div class="si-item"><img alt="MySQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mysql.svg"/><span>MySQL</span></div>
-    <div class="si-item"><img alt="Redis" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/redis.svg"/><span>Redis</span></div>
-    <div class="si-item"><img alt="Firebase" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/firebase.svg"/><span>Firestore</span></div>
-    <div class="si-item"><img alt="Firebase" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/firebase.svg"/><span>Realtime Database</span></div>
-    <div class="si-item"><img alt="Google Cloud Spanner" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlecloudspanner.svg"/><span>Cloud Spanner</span></div>
-  </div>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/>
+    <img src="https://img.shields.io/badge/Memcached-000000?logo=memcached&logoColor=white" alt="Memcached"/>
+    <img src="https://img.shields.io/badge/Valkey-B32222?logo=redis&logoColor=white" alt="Valkey"/>
+    <img src="https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black" alt="Firestore"/>
+    <img src="https://img.shields.io/badge/Realtime_Database-FFCA28?logo=firebase&logoColor=black" alt="Firebase Realtime Database"/>
+    <img src="https://img.shields.io/badge/Cloud_Spanner-4285F4?logo=googlecloudspanner&logoColor=white" alt="Cloud Spanner"/>
+    <img src="https://img.shields.io/badge/Cloud_SQL-4285F4?logo=googlecloudsql&logoColor=white" alt="Cloud SQL"/>
+  </p>
 
-  <!-- 📈 Data Engineering / Analytics -->
   <h3>📈 Data Engineering / Analytics</h3>
-  <div class="si-grid">
-    <div class="si-item"><img alt="Google BigQuery" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlebigquery.svg"/><span>BigQuery</span></div>
-    <div class="si-item"><img alt="Looker" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/looker.svg"/><span>Looker Studio</span></div>
-    <div class="si-item"><img alt="Google Cloud" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlecloud.svg"/><span>Dataform</span></div>
-    <div class="si-item"><img alt="Google Cloud" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlecloud.svg"/><span>Datastream</span></div>
-  </div>
+  <p>
+    <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1" alt="SQL"/>
+    <img src="https://img.shields.io/badge/Protocol_Buffers-000000?logo=protocolbuffers&logoColor=white" alt="Protocol Buffers"/>
+    <img src="https://img.shields.io/badge/Dataform-4285F4?logo=googlecloud&logoColor=white" alt="Dataform"/>
+    <img src="https://img.shields.io/badge/Looker_Studio-4285F4?logo=looker&logoColor=white" alt="Looker Studio"/>
+    <img src="https://img.shields.io/badge/Datastream-4285F4?logo=googlecloud&logoColor=white" alt="Datastream"/>
+  </p>
 
-  <!-- 🔭 Observability -->
   <h3>🔭 Observability</h3>
-  <div class="si-grid">
-    <div class="si-item"><img alt="Grafana" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/grafana.svg"/><span>Grafana</span></div>
-    <div class="si-item"><img alt="Prometheus" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/prometheus.svg"/><span>Prometheus</span></div>
-    <div class="si-item"><img alt="Google Cloud" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlecloud.svg"/><span>Cloud Logging</span></div>
-    <div class="si-item"><img alt="Google Cloud" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlecloud.svg"/><span>Cloud Monitoring</span></div>
-    <div class="si-item"><img alt="Google Cloud" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlecloud.svg"/><span>Cloud Trace</span></div>
-  </div>
+  <p>
+    <img src="https://img.shields.io/badge/Cloud_Logging-4285F4?logo=googlecloud&logoColor=white" alt="Cloud Logging"/>
+    <img src="https://img.shields.io/badge/Cloud_Monitoring-4285F4?logo=googlecloud&logoColor=white" alt="Cloud Monitoring"/>
+    <img src="https://img.shields.io/badge/Cloud_Trace-4285F4?logo=googlecloud&logoColor=white" alt="Cloud Trace"/>
+    <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana"/>
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus"/>
+  </p>
 
-  <!-- 🛠️ DevOps & Tools -->
   <h3>🛠️ DevOps &amp; Tools</h3>
-  <div class="si-grid">
-    <div class="si-item"><img alt="GitHub Actions" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/githubactions.svg"/><span>GitHub Actions</span></div>
-    <div class="si-item"><img alt="Jenkins" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/jenkins.svg"/><span>Jenkins</span></div>
-    <div class="si-item"><img alt="Google Apps Script" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googleappsscript.svg"/><span>Google Apps Script</span></div>
-  </div>
+  <p>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"/>
+    <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?logo=googleappsscript&logoColor=white" alt="Google Apps Script"/>
+  </p>
 
-  <!-- 🤖 Robotics & Hardware -->
   <h3>🤖 Robotics &amp; Hardware</h3>
-  <div class="si-grid">
-    <div class="si-item"><img alt="ROS" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ros.svg"/><span>ROS</span></div>
-    <div class="si-item"><img alt="Arduino" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/arduino.svg"/><span>Arduino</span></div>
-    <div class="si-item"><img alt="Raspberry Pi" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/raspberrypi.svg"/><span>Raspberry Pi</span></div>
-  </div>
+  <p>
+    <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white" alt="ROS"/>
+    <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino"/>
+    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+    <img src="https://img.shields.io/badge/M5Stack-000000" alt="M5Stack"/>
+    <img src="https://img.shields.io/badge/Mechatronics-666666" alt="Mechatronics"/>
+    <img src="https://img.shields.io/badge/Actuators-666666" alt="Actuators"/>
+    <img src="https://img.shields.io/badge/Sensors-666666" alt="Sensors"/>
+    <img src="https://img.shields.io/badge/Serial_Communication-666666" alt="Serial Communication"/>
+  </p>
 
 </div>
