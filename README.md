@@ -10,9 +10,3 @@
     />
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usuginus&theme=transparent&border_radius=10&card_width=600" alt="readme streak stats" />
-</div>
